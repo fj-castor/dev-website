@@ -7,7 +7,7 @@ categories: blog
 ---
 
 
-It took over 2 months since I said I would, but I finally have my first post on a blog I've been meaning to start for a loooooonnng time. Before I started my 4 month internship in January, I kept telling myself that it would be the perfect time to start one up. I kept saying how I could write about things like work, life in Boston, my hometown (and currently in a funk) Toronto Raptors, etc., but up until now it's been all talk and no follow through, which is the problem I'm hoping to address starting this post.
+It took over 2 months since I said I would, but I finally have my first post on a blog I've been meaning to start for a loooooonnng time. Before I started my 4 month internship in January, I kept telling myself that it would be the perfect time to start one up. I kept saying how I could write about things like work, life in Boston, my hometown (and currently in a funk) Toronto Raptors, etc., but up until now it's been all talk and no follow through. 
 
 <Blurb about ideas are awesome, but without execution they suck>
 
@@ -16,74 +16,3 @@ It took over 2 months since I said I would, but I finally have my first post on 
 > You need git up, git out and git somethin', <br/>How will you make it if you never even try?
 
 Two useful commits a day.
-
-All links are easy to [locate and discern](#), yet don't detract from the harmony
-of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the strikeout
-works if <del>for some reason you need to update your post</del>. For consistency's sake,
-<ins>The same goes for insertions</ins>, of course.
-
-
-Code blocks use the [solarized](http://ethanschoonover.com/solarized) theme. Both the light and
-dark versions are included, so you can swap them out easily. _Solarized Dark_ is the default.
-
-{% highlight ruby %}
-class Awesome < ActiveRecord::Base
-  include EvenMoreAwesome
-
-  validates_presence_of :something
-  validates :email, email_format: true
-
-  def initialize(email, name = nil)
-    self.email = email
-    self.name = name
-  end
-end
-{% endhighlight %}
-
-# Headings!
-
-They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
-They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/).
-
-##### They draw the perfect amount of attention
-
-This allows your content to have the proper informational and contextual hierarchy. Yay.
-
-### There are lists, too
-
-  * Apples
-  * Oranges
-  * Potatoes
-  * Milk
-
-  1. Mow the lawn
-  2. Feed the dog
-  3. Dance
-
-### Images look great, too
-
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
-
-
-### There are also pretty colors
-
-Also the result of [BASSCSS](http://www.basscss.com/), you can <span class="bg-dark-gray white">highlight</span> certain components
-of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.
-
-I don't recommend using blue, though. It looks like a <span class="blue">link</span>.
-
-### Stylish blockquotes included
-
-You can use the markdown quote syntax, `>` for simple quotes.
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.
-
-However, you need to inject html if you'd like a citation footer. I will be working on a way to
-hopefully sidestep this inconvenience.
-
-### There's more being added all the time
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to request,
-or add, features.
-
-Happy writing.
