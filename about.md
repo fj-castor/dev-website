@@ -4,15 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a software dev and current CS undergrad @ UWaterloo. 
+Hey! I'm Francis and I'm a 3rd year Computer Science student and software developer.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I've been involved in various jobs and projects that involved developing mobile apps, front-end website and web applications, and back-end services. I'm passionate about solving everyday problems and providing great experiences through technology.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Feel free to check out past work I've done and projects I'm currently involved in too!
